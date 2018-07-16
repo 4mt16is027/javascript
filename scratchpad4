@@ -35,6 +35,7 @@ function generatePrime(num)
         break;
     }
 }
+generatePrime(10)
 
 function naturalNumbers(num)
 {
